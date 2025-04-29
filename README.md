@@ -1,4 +1,4 @@
-# 🎵 Mood CLI
+# 🎵 DevMood CLI
 
 A powerful, colorful, interactive CLI tool to manage and play your favorite mood-based YouTube playlists, with history tracking, mood suggestions, backup/restore, and much more!
 
