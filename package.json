@@ -13,12 +13,20 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^5.1.1",
     "chalk": "^4.1.2",
     "commander": "^11.1.0",
     "dayjs": "^1.11.9",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
     "fs-extra": "^11.2.0",
     "inquirer": "^9.3.7",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.14.2",
+    "nodemon": "^3.1.10",
     "open": "^9.1.0",
-    "ora": "^7.0.1"
+    "ora": "^7.0.1",
+    "passport": "^0.7.0",
+    "passport-local": "^1.0.0"
   }
 }
